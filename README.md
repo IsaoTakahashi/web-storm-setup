@@ -1,4 +1,5 @@
 # web-storm-setup
+Demo project for [WebStormでVue.jsの快適な開発環境をつくる](https://qiita.com/IsaoTakahashi/private/20c82de0ddd2b71f4f75).
 
 ## Project setup
 ```
